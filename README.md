@@ -1,4 +1,4 @@
 my_wsgi
 =======
 
-practice a python wsgi project
+1practice a python wsgi project
